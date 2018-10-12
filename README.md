@@ -1,4 +1,4 @@
 # hello-world
 A Start
 
-Learn More JavaScript. 
+Learn More Deep Learning. 
